@@ -2,7 +2,7 @@ Trader Behavior Insights: Market Sentiment Analysis
 •	Problem Statement
 •	This project analyzes the relationship between Bitcoin market sentiment (Fear vs Greed) and trader behavior using historical trading data from Hyperliquid. The objective is to uncover how sentiment impacts trader performance, risk-taking, and decision-making, and to derive insights that can inform smarter trading strategies.
 •	Datasets Used
-•	1. Bitcoin Fear & Greed Index: 
+•	1. Bitcoin Fear & Greed Index:
    - Columns: date, classification (Fear, Greed)
 
 2. Hyperliquid Historical Trader Data:
