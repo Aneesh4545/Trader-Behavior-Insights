@@ -23,6 +23,12 @@ Comparison of average PnL during Fear vs Greed periods
  Buy vs Sell performance analysis
  Daily PnL trends based on market sentiment
  Identification of consistent winning and losing traders
+ <img width="1043" height="507" alt="Daily Trader PnL vs Market Sentiment" src="https://github.com/user-attachments/assets/74bca322-a8a1-4725-a3a4-76e187e0654a" />
+<img width="850" height="547" alt="Win Rate b Market Sentiment and Trade Direction" src="https://github.com/user-attachments/assets/6e15a095-ca5b-4c32-b777-49746b4a9768" />
+<img width="733" height="470" alt="Trader PnL Distribution Fear vs Greed" src="https://github.com/user-attachments/assets/621b069e-0a2b-4757-83d6-b4b6d2bbf7f8" />
+<img width="704" height="470" alt="Average Trade Size by Market Sentiment" src="https://github.com/user-attachments/assets/624a8a1a-fe3a-4994-9006-33a888c1da46" />
+<img width="686" height="470" alt="PnLb Trade Direction   Market Sentiment" src="https://github.com/user-attachments/assets/8ec23d71-7ee1-4847-bcfa-8703a4caac63" />
+
 
 Key Findings
 Traders tend to achieve higher average profits during Greed periods, but with increased volatility
